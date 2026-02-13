@@ -1,0 +1,77 @@
+{
+	
+"keysForContent":{
+	
+	"applicationName":"அட்டவணை A",
+
+		"particulars":"விவரங்கள்",
+		"details":"விளக்கங்கள்",
+		"agreementDate":"ஒப்பந்தத்தின் தேதி",
+		"agreementPlace":"ஒப்பந்தத்தின் இடம்",
+		"branchDetails":"கிளை விவரங்கள்",
+		"loanAccountNumber":"கடன் கணக்கு எண்",
+		
+		"borrowerDetails":"கடன் வாங்குபவரின்(களின்) விவரங்கள்",
+			
+			"borrowerName":"கடன் வாங்குபவரின் பெயர்",
+			"borrowerAge":"கடன் வாங்குபவரின் வயது",
+			"borrowerAddress":"கடன் வாங்குபவரின் குடியிருப்பு முகவரி",
+			"coapplicantName":"இணை விண்ணப்பதாரரின் பெயர்",
+			"coapplicantAddress":"இணை கடன் வாங்குபவரின் குடியிருப்பு முகவரி",
+		
+		"loanDetails":"கடன் விவரங்கள்",
+		
+			"loanType":"கடன் விவரங்கள் கடன் வகை",
+			"loanAmount":"கடன் தொகை",
+			"loanInterestRate":"வட்டி விகிதம்",
+			"loanPurpose":"கடனின் நோக்கம்/முடிவு பயன்பாடு",
+		
+		"loanAmortization":"கடன் தள்ளுபடி",
+		
+			"tenure":"கடன் தள்ளுபடி கடனின் காலம்",
+			"installments":"தவணைகளின் எண்ணிக்கை",
+			"installmentAmount":"தவணைத் தொகை (ரூ.யில்)",
+			"repaymentFrequency":"சமமாக்கப்பட்ட தவணை",
+			"repaymentMode":"கடைசி தவணை தொகை",
+			"firstInstallment":"முதல் தவணை",
+			"lastInstallmentAmount":"திருப்பிச் செலுத்தும் முறை",
+			"equatedInstallment":"சமமாக்கப்பட்ட தவணை",
+			
+		
+		"chargesDetails":"கட்டண விவரங்கள்",
+		
+			"processingCharges":"கட்டண விவரங்கள் செயலாக்கக் கட்டணங்கள்+ஜிஎஸ்டி",
+			"prepaymentCharges":"முன்கூட்டியே பணம் செலுத்துவதற்கான கட்டணங்கள் + ஜிஎஸ்டி",
+			"preClosureCharges":"முன்கூட்டியே முடிப்பதற்கான கட்டணங்கள் + ஜிஎஸ்டி",
+			"latePaymentCharges":"தாமதமாக செலுத்துவதற்கான கட்டணங்கள் + ஜிஎஸ்டி",
+			"hypothecationCharges":"அடமான கட்டணங்கள் + ஜிஎஸ்டி",
+			"perInstallment":"தவணை ஒன்றுக்கு ரூ",
+			
+		"applicantNameAndSign":"<font face='Arial Unicode MS'>கடனாளி பெயர் & கையொப்பம்</font>",
+		"authorizedSignatory":"கம்பெனி அங்கீகாரம்",
+		"coapplicantNameAndSign":"<font face='Arial Unicode MS'>இணை கடனாளி பெயர் &  கையொப்பம்</font>",
+		"delimiterLines":"...................",
+		
+	"module2":"KFS /கே எஃப் எஸ் இன் சுருக்கம்",
+		"loanProductName":"கடன் தயாரிப்பு பெயர்",
+		"loanAmountSanctioned":"ஒப்புதல் அளிக்கப்பட்ட கடன் தொகை",
+		"numberOfInstallments":"தவணைகளின் எண்ணிக்கை",
+		"installmentAmoun":"தவணை தொகை",
+		"rateOfInterest":"வட்டி விகிதம் (%)",
+		"totalInterest":"கடன் தவணைக்காலத்தில் வசூலிக்கப்பட வேண்டிய மொத்த வட்டி தொகை",
+		"processingFees":"செயலாக்கக் கட்டணம் ஜிஎஸ்டி உட்பட",
+		"insurancePremium":"காப்பீட்டு பிரீமியம் வசூலிக்கப்பட்டது",
+		"stampDutyCharges":"முத்திரை கட்டணங்கள்",
+		"latePaymentCharges2":"தாமதமாக செலுத்தும் கட்டணங்கள் + GST",
+		"annualPercentageRate":"ஆண்டு சதவீத விகிதம் (ஏபிஆர் %)",
+		"confirmation1":"கடன் வாங்குபவர் <font face='Arial Unicode MS'>&</font> இணை கடன் வாங்குபவர்(கள்) நிறுவனத்திடமிருந்து கடனின் விலை குறித்த மாதாந்திர தவணை அட்டை மற்றும் முக்கிய தகவல் அறிக்கை பெற்றுள்ளனர்.",
+		"confirmation2":"முக்கிய தகவல் அறிக்கை விவரங்கள் அவருக்கு/அவளுக்கு விளக்கப்பட்டுள்ளன என்பதை அவர்/அவள் உறுதிப்படுத்துகிறார், மேலும் அவர்/அவள் அவற்றைப் புரிந்துகொண்டார்."
+		
+	}
+}	 
+
+
+
+
+
+

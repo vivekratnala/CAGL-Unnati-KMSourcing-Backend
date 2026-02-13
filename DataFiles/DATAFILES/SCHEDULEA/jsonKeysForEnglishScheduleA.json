@@ -1,0 +1,72 @@
+{
+	
+"keysForContent":{
+	
+	"applicationName":"Schedule A",
+
+		"particulars":"Particulars",
+		"details":"Details",
+		"agreementDate":"Date of Agreement",
+		"agreementPlace":"Place of Agreement",
+		"branchDetails":"Branch Details",
+		"loanAccountNumber":"Loan Account Number",
+		
+		"borrowerDetails":"Borrower(s) Details",
+			
+			"borrowerName":"Name of the Applicant",
+			"borrowerAge":"Age of the Applicant",
+			"borrowerAddress":"Residence Address of the Applicant",
+			"coapplicantName":"Co Applicant Name",
+			"coapplicantAddress":"Residence Address of the Co Applicant",
+		
+		"loanDetails":"Loan Details",
+		
+			"loanType":"Type of Loan",
+			"loanAmount":"Loan Amount",
+			"loanInterestRate":"Rate of Interest",
+			"loanPurpose":"Purpose/End use of the loan",
+		
+		"loanAmortization":"Amortization of Loan",
+		
+			"tenure":"Tenure of the Loan (in Months)",
+			"installments":"Number of instalments",
+			"installmentAmount":"Instalment amount (in Rs.)",
+			"repaymentFrequency":"Repayment Frequency",
+			"repaymentMode":"Mode of Repayment",
+			"firstInstallment":"First Installment",
+			"equatedInstallment":"Equated Installment",
+			"lastInstallmentAmount":"Last Installment amount",
+		
+		"chargesDetails":"Details of Charges",
+		
+			"processingCharges":"Processing Fees Charges + GST",
+			"stampDutyCharges":"Stamp Duty Charges",
+			"latePaymentCharges":"Late Payment Charges + GST",
+			
+		"applicantNameAndSign":"Applicant Name and Sign",
+		"authorizedSignatory":"Authorized Signatory",
+		"coapplicantNameAndSign":"Co Applicant Name and Sign",
+		"delimiterLines":"...................",
+		
+	"module2":"KFS Summary",
+		"loanProductName":"Loan Product Name",
+		"loanAmountSanctioned":"Loan Amount Sanctioned",
+		"numberOfInstallments":"Number of Instalments",
+		"installmentAmoun":"Instalment Amount",
+		"rateOfInterest":"Rate Of Interest (%)",
+		"totalInterest":"Total interest amount to be charged during the loan tenure",
+		"processingFees":"Processing Fees (Including GST)",
+		"insurancePremium":"Insurance Premium Collected",
+		"latePaymentCharges2":"Late Payment Charges (Including GST)",
+		"annualPercentageRate":"Annual Percentage Rate (APR %)",
+		"confirmation1":"Applicant /Co Applicant has received the Repayment Sheet and Key Fact Statement on the pricing of the loan from the Company.",
+		"confirmation2":"He/She confirms that the details of the Key Fact Statement have been explained to him/her, and he/she understands them.",
+		
+	}
+}	 
+
+
+
+
+
+

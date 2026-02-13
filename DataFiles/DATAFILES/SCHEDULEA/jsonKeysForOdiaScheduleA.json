@@ -1,0 +1,63 @@
+{
+  "keysForContent": {
+    "applicationName": "ସୂଚୀ A",
+
+    "particulars": "ସବିଶେଷ ବିବରଣୀ",
+    "details": "ବିବରଣୀ",
+    "agreementDate": "ଚୁକ୍ତିନାମା ହେବାର ତାରିଖ",
+    "agreementPlace": "ଚୁକ୍ତିନାମା ହେବାର ସ୍ଥାନ",
+    "branchDetails": "ଶାଖାର ବିବର‌ଣୀ",
+    "loanAccountNumber": "ଋଣ ଆକାଉଣ୍ଟ ନମ୍ବର",
+
+    "borrowerDetails": "ଋଣଗ୍ରହୀତା(ମାନ)ଙ୍କର ବିବରଣୀ",
+
+    "borrowerName": "ଆବେଦନକାରୀଙ୍କ ନାମ",
+    "borrowerAge": "ଆବେଦନକାରୀଙ୍କ ବୟସ",
+    "borrowerAddress": "ଆବେଦନକାରୀଙ୍କ ବାସସ୍ଥାନ ଠିକଣା",
+    "coapplicantName": "ସହ-ଆବେଦନକାରୀଙ୍କ ନାମ",
+    "coapplicantAddress": "ସହ-ଆବେଦନକାରୀଙ୍କ ବାସସ୍ଥାନ ଠିକଣା",
+
+    "loanDetails": "ଋଣର ବିବରଣୀ",
+
+    "loanType": "ଋଣର ପ୍ରକାର",
+    "loanAmount": "ଋଣ ରାଶି",
+    "loanInterestRate": "ସୁଧ ହାର",
+    "loanPurpose": "ଋଣର ଉଦ୍ଦେଶ୍ୟ/ଉଦ୍ଦିଷ୍ଟ ବ୍ୟବହାର",
+
+    "loanAmortization": "ଋଣର ପରିଶୋଧ",
+
+    "tenure": "ଋଣର ଅବଧି (ମାସରେ)",
+    "installments": "କିସ୍ତି ସଂଖ୍ୟା",
+    "installmentAmount": "କିସ୍ତି ରାଶି (ଟଙ୍କାରେ.)",
+    "repaymentFrequency": "ପରିଶୋଧ ବାରମ୍ବାରତା",
+    "repaymentMode": "ପରିଶୋଧର ପଦ୍ଧତି",
+    "firstInstallment": "ପ୍ରଥମ କିସ୍ତି",
+    "equatedInstallment": "ସମାନ ଭାବେ ବିଭକ୍ତ କିସ୍ତି",
+    "lastInstallmentAmount": "ପ୍ରଥମ କିସ୍ତି ପରିମାଣ", 
+
+    "chargesDetails": "ଚାର୍ଜର ବିବରଣୀ",
+
+    "processingCharges": "ପ୍ରୋସେସିଂ ଫି ଚାର୍ଜ + ଜିଏସଟି",
+    "stampDutyCharges": "ଷ୍ଟାମ୍ପ ଡ୍ୟୁଟି ଚାର୍ଜ",
+    "latePaymentCharges": "ବିଳମ୍ବିତ ଦେୟ ଶୁଳ୍କ + ଜିଏସଟି",
+
+    "applicantNameAndSign": "<font face='Arial Unicode MS'>ଆବେଦକ ନାମ ଏବଂ ହସ୍ତାକ୍ଷର </font>",
+    "authorizedSignatory": "ଅଧିକୃତ ପ୍ରତିନିଧି ହସ୍ତାକ୍ଷର",
+    "coapplicantNameAndSign": "<font face='Arial Unicode MS'>ସହ-ଆବେଦକ ନାମ ଏବଂ ହସ୍ତାକ୍ଷର </font>",
+    "delimiterLines": "...................",
+
+    "module2": "କେଏଫଏସ୍‌ ସାରାଂଶ",
+    "loanProductName": "ଋଣ ଉତ୍ପାଦର ନାମ",
+    "loanAmountSanctioned": "ମଞ୍ଜୁରପ୍ରାପ୍ତ ଋଣ ରାଶି",
+    "numberOfInstallments": "କିସ୍ତି ସଂଖ୍ୟା",
+    "installmentAmoun": "କିସ୍ତି ରାଶି",
+    "rateOfInterest": "ସୁଧ ହାର (%)",
+    "totalInterest": "ଋଣ ଅବଧି ମଧ୍ୟରେ ଚାର୍ଜ କରାଯିବାକୁ ଥିବା ମୋଟ ସୁଧ ରାଶି",
+    "processingFees": "ପ୍ରୋସୈସଂ ଫି (ଜିଏସଟି ସମେତ)",
+    "insurancePremium": "ସଂଗୃହିତ ବୀମା ପ୍ରିମିୟମ୍‌",
+    "latePaymentCharges2": "ବିଳମ୍ବିତ ଦେୟ ଶୁଳ୍କ (ଜିଏସଟି ସମେତ)",
+    "annualPercentageRate": "ବାର୍ଷିକ ଶତକଡ଼ା ହାର ( ଏପିଆର୍‌ %)",
+    "confirmation1": "ଆବେଦନକାରୀ/ସହ ଆବେଦନକାରୀ କମ୍ପାନୀ ଠାରୁ ଋଣର ମୂଲ୍ୟ ନିର୍ଦ୍ଧାରଣ ଉପରେ ପରିଶୋଧ ସିଟ୍ ଏବଂ ମୁଖ୍ୟ ତଥ୍ୟ ବିବୃତ୍ତି ପାଇଛନ୍ତି।",
+    "confirmation2": "ସେ(ପୁ/ମ) ସୁନିଶ୍ଚିତ କରନ୍ତି ଯେ ମୁଖ୍ୟ ତଥ୍ୟ ବିବୃତ୍ତିର ବିବରଣୀ ତାଙ୍କୁ ବୁଝାଇ ଦିଆଯାଇଛି, ଏବଂ ସେ ସେଗୁଡ଼ିକୁ ବୁଝିଛନ୍ତି।"
+  }
+}

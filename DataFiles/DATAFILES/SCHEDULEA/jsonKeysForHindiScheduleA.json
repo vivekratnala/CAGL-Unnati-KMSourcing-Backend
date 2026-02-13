@@ -1,0 +1,76 @@
+{
+	
+"keysForContent":{
+	
+	"applicationName":"अनुसूची ए",
+
+		"particulars":"विवरण",
+		"details":"विवरण",
+		"agreementDate":"अनुबंध की तिथि",
+		"agreementPlace":"अनुबंध की जगह",
+		"branchDetails":"शाखा का विवरण",
+		"loanAccountNumber":"ऋण खाता संख्या",
+		
+		"borrowerDetails":"उधारकर्ता (ओं) का विवरण",
+			
+			"borrowerName":"उधारकर्ता का नाम",
+			"borrowerAge":"उधारकर्ता की आयु",
+			"borrowerAddress":"उधारकर्ता का निवास पता",
+			"coapplicantName":"सह-आवेदक का नाम",
+			"coapplicantAddress":"सह उधारकर्ता का निवास पता",
+		
+		"loanDetails":"ऋण विवरण",
+		
+			"loanType":"ऋण के प्रकार",
+			"loanAmount":"ऋण की राशि",
+			"loanInterestRate":"ब्याज की दर",
+			"loanPurpose":"ऋण का उद्देश्य/अंतिम उपयोग",
+		
+		"loanAmortization":"ऋण का परिशोधन",
+		
+			"tenure":"ऋण की अवधि (महीनों में)",
+			"installments":"किस्तों की संख्या",
+			"installmentAmount":"किस्त की राशि (रुपए में)",
+			"repaymentFrequency":"ऋण वापसी की आवृत्ति",
+			"repaymentMode":"ऋण वापसी की विधि",
+			"firstInstallment":"पहली किस्त",
+			"equatedInstallment":"समान किस्त",
+			"lastInstallmentAmount":"अंतिम किस्त की राशि",
+		
+		"chargesDetails":"शुल्क का विवरण",
+		
+			"processingCharges":"प्रोसेसिंग भुगतान शुल्क + जीएसटी",
+			"prepaymentCharges":"पूर्व भुगतान शुल्क + जीएसटी ",
+			"preClosureCharges":"पूर्वगामी शुल्क + जीएसटी",
+			"latePaymentCharges":"देर से भुगतान शुल्क + जीएसटी",
+			"hypothecationCharges":"दृष्टिबंधक शुल्क + जीएसटी",
+			"perInstallment":"/- प्रति किस्त ",
+			
+			"applicantNameAndSign":"<font face='Arial Unicode MS'>उधारकर्ता की नाम & हस्ताक्षर</font>",
+		"authorizedSignatory":"अधिकृत हस्ताक्षरकर्ता",
+		"coapplicantNameAndSign":"<font face='Arial Unicode MS'>सह-उधारकर्ता की नाम & हस्ताक्षर<font>",
+		"delimiterLines":"...................",
+		
+	"module2":"KFS / के एफ एस  सारांश ",
+		"loanProductName":"ऋण उत्पाद का नाम",
+		"loanAmountSanctioned":"स्वीकृत ऋण राशि",
+		"numberOfInstallments":"पकिश्त की संख्या / अवधि",
+		"installmentAmoun":"किश्त राशि",
+		"rateOfInterest":"ब्याज दर (%)",
+		"totalInterest":"लोन अवधि के दौरान ली जाने वाली कुल ब्याज़ राशि",
+		"processingFees":"जीएसटी सहित प्रक्रिया शुल्क",
+		"insurancePremium":"बीमा प्रीमियम एकत्र",
+		"stampDutyCharges":"स्टाम्प शुल्क",
+		"latePaymentCharges2":"देर से भुगतान शुल्क + जीएसटी",
+		"annualPercentageRate":"वार्षिक प्रतिशत दर (एपीआर %)",
+		"confirmation1":"उधारकर्ता और सह-उधारकर्ता(ओं) को कंपनी से ऋण के मूल्य निर्धारण पर अदायगी पत्र और मुख्य तथ्य कथन प्राप्त हुआ है। ",
+		"confirmation2":"वह पुष्टि करता/करती है कि मुख्य तथ्य कथन का विवरण उसे समझाया गया है, और वह उन्हें समझता/समझती है।",
+		
+	}
+}	 
+
+
+
+
+
+

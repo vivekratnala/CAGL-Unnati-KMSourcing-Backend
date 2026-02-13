@@ -1,0 +1,76 @@
+{
+	
+"keysForContent":{
+	
+	"applicationName":"अनुसूची ए",
+
+		"particulars":"वर्णन",
+		"details":"तपशील",
+		"agreementDate":"कराराची तारीख",
+		"agreementPlace":"कराराचे स्थान",
+		"branchDetails":"शाखेचे तपशील",
+		"loanAccountNumber":"कर्ज खाते क्रमांक",
+		
+		"borrowerDetails":"कर्जदाराचे (कर्जदारांचे) तपशील",
+			
+			"borrowerName":"कर्जदाराचे नाव",
+			"borrowerAge":"कर्जदाराचे वय",
+			"borrowerAddress":"कर्जदाराचा निवासी पत्ता",
+			"coapplicantName":"सह-कर्जदाराचे नाव",
+			"coapplicantAddress":"सह-कर्जदाराचा निवासी पत्ता",
+		
+		"loanDetails":"कर्ज तपशील",
+		
+			"loanType":"कर्जाचा प्रकार",
+			"loanAmount":"कर्जाची रक्कम",
+			"loanInterestRate":"व्याजाचा दर",
+			"loanPurpose":"कर्जाचा हेतू/अंतिम वापर
+",
+		
+		"loanAmortization":"कर्जाचे परिशोधन",
+		
+			"tenure":"कर्जाची मुदत (महिने)",
+			"installments":"हप्त्यांची संख्या",
+			"installmentAmount":"हप्त्याची रक्कम(रूपयांमध्ये)",
+			"repaymentFrequency":"परतफेडीची वारंवारता",
+			"repaymentMode":"परतफेडीची पद्धत",
+			"firstInstallment":"पहिला हप्ता",
+			"equatedInstallment":"समान हप्ता",
+			"lastInstallmentAmount":"शेवटचा हप्ता रक्कम ",
+		
+		"chargesDetails":"शुल्कांचे तपशील",
+		
+			"processingCharges":"प्रक्रिया फी शुल्क+ जीएसटी",
+			"prepaymentCharges":"पूर्व-भरणा शुल्क+ जीएसटी",
+			"preClosureCharges":"मुदपूर्व समाप्ती शुल्क + जीएसटी",
+			"latePaymentCharges":"विलंब पेमेंट शुल्क + जीएसटी",
+			"hypothecationCharges":"हायपोथिकेशन शुल्क + जीएसटी",
+			"perInstallment":"/- दर हप्त्यासाठी",
+			"rs":"रू.",
+		"applicantNameAndSign":"<font face='Arial Unicode MS'>कर्जदाराचे नाव & स्वाक्षरी</font>",
+		"authorizedSignatory":"अधिकृत स्वाक्षरी",
+		"coapplicantNameAndSign":"<font face='Arial Unicode MS'>सह-कर्जदाराचे नाव & स्वाक्षरी<font>",
+		"delimiterLines":"...................",
+		
+	"module2":"KFS / के एफ एस सारांश",
+		"loanProductName":"कर्ज उत्पादन नाव",
+		"loanAmountSanctioned":"कर्जाची मंजूर रक्कम",
+		"numberOfInstallments":"हप्त्यांची  संख्या",
+		"installmentAmoun":"हप्त्यांची रक्कम",
+		"rateOfInterest":"व्याज दर (%)",
+		"totalInterest":"कर्जाच्या कालावधीत आकारण्यात येणारी एकूण व्याज रक्कम",
+		"processingFees":"प्रक्रिया शुल्क जीएसटीसह",
+		"insurancePremium":"विमा प्रीमियम जमा",
+		"stampDutyCharges":"स्टाम्प शुल्क",
+		"latePaymentCharges2":"लेट पेमेंट चार्जेस + जीएसटी",
+		"annualPercentageRate":"वार्षिक टक्केवारी दर (एपीआर %)",
+		"confirmation1":"कर्जदार आणि सह-कर्जदारांना कंपनीकडून कर्जाच्या किंमतीबद्दल परतफेड पत्रक आणि महत्त्वाच्या तथ्यांचे विवरण प्राप्त झाले आहे. ",
+		"confirmation2":"तो/ती पुष्टी करतो की महत्त्वाच्या तथ्यांचे विवरण त्याला/तिला समजावून सांगितले गेले आहे आणि त्याला/तिला ते समजले आहे.",
+	}
+}	 
+
+
+
+
+
+
